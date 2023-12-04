@@ -13,7 +13,7 @@ material-icons-extended = "1.5.4"
 navigation-compose = "2.7.5"
 org-jetbrains-kotlin-android = "1.9.20-Beta"
 io-github-Rosemoe-sora-editor = "0.22.1-de0c232-SNAPSHOT"
-com-github-skydoves = "1.0.5"
+com-github-skydoves = "1.0.6"
 r8 = "8.1.56"
 
 [libraries]
